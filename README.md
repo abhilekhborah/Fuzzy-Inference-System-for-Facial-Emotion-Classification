@@ -1,1 +1,1 @@
-# Fuzzy-Inference-System-for-Facial-Emotion-Classification
+# Fuzzy Inference System for Facial Emotion Classification
