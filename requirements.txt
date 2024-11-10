@@ -1,0 +1,7 @@
+pillow
+numpy
+torch
+onnxruntime
+opencv-python
+mediapipe
+torchvision
